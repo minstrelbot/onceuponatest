@@ -6,6 +6,7 @@ Links:
   - id: room/1
     name: The Room
 Flee: true
+Audio: intro
 ---
 Welcome to Once Upon a Test.
 You enter a dark hallway...
